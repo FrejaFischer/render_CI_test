@@ -6,7 +6,7 @@ function App() {
   return (
     <>
       <div>
-        <p>hello</p>
+        <p>hello again</p>
       </div>
       <h1>Vite + React</h1>
       <div className="card">
