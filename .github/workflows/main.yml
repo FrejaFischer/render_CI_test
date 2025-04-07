@@ -5,7 +5,8 @@ on:
     branches:
       - release
     paths:
-      - "CI_test/**" # you can customize this to specific paths
+      - "CI_test/**"
+      - ".github/workflows/main.yml"
 
 jobs:
   build-and-test:
