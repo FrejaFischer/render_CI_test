@@ -1,5 +1,4 @@
 import { useState } from "react";
-import ms from "ms";
 
 function App() {
   const [count, setCount] = useState(0);
